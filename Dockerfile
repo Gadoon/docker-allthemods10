@@ -1,4 +1,4 @@
-q# syntax=docker/dockerfile:1
+# syntax=docker/dockerfile:1
 
 FROM openjdk:21-buster
 
