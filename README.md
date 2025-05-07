@@ -1,4 +1,4 @@
-# [All the Mods 10-2.41](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10) on Curseforge
+# [All the Mods 10-2.47](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10) on Curseforge
 <!-- toc -->
 
 - [Description](#description)
@@ -60,7 +60,12 @@ Github: https://github.com/Goobaroo/docker-allthemods9
 
 Docker: https://hub.docker.com/repository/docker/goobaroo/allthemods9
 
-## Source (This repo)
+## Source (W3LFARe repo)
 Github: https://github.com/W3LFARe/docker-allthemods10
 
 Docker: https://registry.hub.docker.com/r/w3lfare/allthemods10 
+
+## Source (This repo)
+Github: https://github.com/gadoon/docker-allthemods10
+
+Docker: https://registry.hub.docker.com/r/gideon77/allthemods10 
